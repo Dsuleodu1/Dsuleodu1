@@ -4,7 +4,7 @@
 
 - <b>IT and Security Management </b>
   - [Azure SOC Lab](https://github.com/Dsuleodu1/Azure-Soc-Lab)
-  - [Vulnerability-Management-Lab](https://github.com/Dsuleodu1/Azure-Soc-Lab)
+  - [Vulnerability-Management-Lab](https://github.com/Dsuleodu1/Vulnerability-Management-)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/Dsuleodu1/Active-Directory-Bulk-User-Creation)
  
