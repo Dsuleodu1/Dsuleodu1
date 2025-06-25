@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/Dsuleodu1">IT Professional</a>, <a href="https://www.linkedin.com/in/dsuleodu/">Project Manager</a>, 
+<h1>Hi, I'm David! <br/><a href="https://github.com/Dsuleodu1">IT Professional</a>, <a href="https://www.linkedin.com/in/dsuleodu/">Project Manager</a>
 
 <h2>👨‍💻 Projects:</h2> 
 
