@@ -11,7 +11,7 @@
 - <b>Data Analytics</b>
   - [King County House Sales](https://public.tableau.com/app/profile/david.suleodu/viz/KingCountyHouseSales_16955214568310/KingCountyHouseSalesDashboard)
   - [Sales Dashboard South America](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDsuleodu1%2FDataAnalystProjects%2Frefs%2Fheads%2Fmain%2FSales%2520Dashboard%2520South%2520America.xlsx&wdOrigin=BROWSELINK)
-  - [Nashville Housing Data Cleaning](https://github.com/Dsuleodu1/DataAnalystProjects/blob/main/NashvilleHousingDataCleaning.sql)
+  - [Nashville Housing Data Cleaning](https://github.com/Dsuleodu1/NashvilleHousingDataCleaning/blob/main/README.md)
   - [SQL Data Exploration Project](https://github.com/Dsuleodu1/DataAnalystProjects/blob/main/SQLQuery1%20project%20Data%20exploration.sql)
   
  
