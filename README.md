@@ -13,7 +13,7 @@
   - [Sales Dashboard South America](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDsuleodu1%2FDataAnalystProjects%2Frefs%2Fheads%2Fmain%2FSales%2520Dashboard%2520South%2520America.xlsx&wdOrigin=BROWSELINK)
   - [Nashville Housing Data Cleaning](https://github.com/Dsuleodu1/NashvilleHousingDataCleaning/blob/main/README.md)
   - [SQL Data Exploration Project](https://github.com/Dsuleodu1/SQL-Data-Exploration-Project/blob/main/README.md)
-  
+  - [PowerBi-Perfromance-Report](https://github.com/Dsuleodu1/PowerBI-Performance-Report/blob/main/README.md)
  
 
 
