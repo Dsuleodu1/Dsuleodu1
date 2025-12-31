@@ -1,7 +1,6 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/Dsuleodu1">IT Professional</a>, <a href="https://www.linkedin.com/in/dsuleodu/">Project Manager</a>
 
 <h2>👨‍💻 Projects:</h2> 
-
 - <b>IT and Security Management </b>
   - [Azure SOC Lab](https://github.com/Dsuleodu1/Azure-Soc-Lab)
   - [Vulnerability-Management-Lab](https://github.com/Dsuleodu1/Vulnerability-Management-)
