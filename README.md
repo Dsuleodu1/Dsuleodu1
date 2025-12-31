@@ -5,8 +5,13 @@
 - <b>IT and Security Management </b>
   - [Azure SOC Lab](https://github.com/Dsuleodu1/Azure-Soc-Lab)
   - [Vulnerability-Management-Lab](https://github.com/Dsuleodu1/Vulnerability-Management-)
+  
 - <b>PowerShell</b>
   - [Active Directory Mass User Creation](https://github.com/Dsuleodu1/Active-Directory-Bulk-User-Creation)
+  
+  - <b>Business Case Study</b>
+  - [Active Directory Mass User Creation](https://github.com/Dsuleodu1/Active-Directory-Bulk-User-Creation)
+  
   
 - <b>Data Analytics</b>
   - [King County House Sales](https://public.tableau.com/app/profile/david.suleodu/viz/KingCountyHouseSales_16955214568310/KingCountyHouseSalesDashboard)
