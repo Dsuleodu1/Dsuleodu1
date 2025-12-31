@@ -11,7 +11,7 @@
   - [Active Directory Mass User Creation](https://github.com/Dsuleodu1/Active-Directory-Bulk-User-Creation)
   
 - <b>Business Case Study</b>
-  - [Business Case Study Shopping Analysis](https://github.com/Dsuleodu1/Business-Case-Study-Shopping-Analysis/blob/main/README.md)
+  - [Business Case Study Shopping Analysis](https://github.com/Dsuleodu1/Business-Case-Study-Shopping-Analysis/tree/main)
   
   
 - <b>Data Analytics</b>
