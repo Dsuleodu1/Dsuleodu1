@@ -10,8 +10,8 @@
 - <b>PowerShell</b>
   - [Active Directory Mass User Creation](https://github.com/Dsuleodu1/Active-Directory-Bulk-User-Creation)
   
-  - <b>Business Case Study</b>
-  - [Active Directory Mass User Creation](https://github.com/Dsuleodu1/Active-Directory-Bulk-User-Creation)
+- <b>Business Case Study</b>
+  - [Business Case Study Shopping Analysis](https://github.com/Dsuleodu1/Business-Case-Study-Shopping-Analysis/blob/main/README.md)
   
   
 - <b>Data Analytics</b>
